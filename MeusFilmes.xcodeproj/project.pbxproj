@@ -13,6 +13,7 @@
 		0214E7AA276A232C00FF1BD3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0214E7A8276A232C00FF1BD3 /* Main.storyboard */; };
 		0214E7AC276A232D00FF1BD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0214E7AB276A232D00FF1BD3 /* Assets.xcassets */; };
 		0214E7AF276A232D00FF1BD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0214E7AD276A232D00FF1BD3 /* LaunchScreen.storyboard */; };
+		0214E7B7276A249B00FF1BD3 /* Filme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0214E7B6276A249B00FF1BD3 /* Filme.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0214E7AB276A232D00FF1BD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0214E7AE276A232D00FF1BD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0214E7B0276A232D00FF1BD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0214E7B6276A249B00FF1BD3 /* Filme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Filme.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0214E7A2276A232C00FF1BD3 /* AppDelegate.swift */,
 				0214E7A4276A232C00FF1BD3 /* SceneDelegate.swift */,
 				0214E7A6276A232C00FF1BD3 /* ViewController.swift */,
+				0214E7B6276A249B00FF1BD3 /* Filme.swift */,
 				0214E7A8276A232C00FF1BD3 /* Main.storyboard */,
 				0214E7AB276A232D00FF1BD3 /* Assets.xcassets */,
 				0214E7AD276A232D00FF1BD3 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				0214E7A7276A232C00FF1BD3 /* ViewController.swift in Sources */,
 				0214E7A3276A232C00FF1BD3 /* AppDelegate.swift in Sources */,
 				0214E7A5276A232C00FF1BD3 /* SceneDelegate.swift in Sources */,
+				0214E7B7276A249B00FF1BD3 /* Filme.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
