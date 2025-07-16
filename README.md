@@ -6,7 +6,7 @@ Uma app iOS que exibe uma lista de filmes com imagem, título e descrição, al�
 
 ## 🚀 Motivação
 
-Esse projeto nasceu para aprimorar habilidades com `UITableViewController`, navegação via segues e passagem de dados entre telas, seguindo o conselho de escrever o README antes do código — uma prática recomendada por Tom Preston‑Werner para definir propósito desde o início :contentReference[oaicite:1]{index=1}.
+Esse projeto nasceu para aprimorar habilidades com `UITableViewController`, navegação via segues e passagem de dados entre telas.
 
 ---
 
